@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher, executor
 import handlers
-API_TOKEN = '5522516280:AAF-2b3hzARH9EKRbVcWNwjJE2wTFXjnDhc'
+API_TOKEN = 'Very unsecure'
 # создаем экземпляры бота и диспетчера
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
